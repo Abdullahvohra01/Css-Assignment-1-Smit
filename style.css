@@ -3,7 +3,7 @@
     height: 80px;
     align-items: center;
     padding-bottom: 10px;
-    background-image:url("nav1\ \(1\).jpg");
+    background-image:url("Images/nav1\ \(1\).jpg");
     background-repeat: repeat;
     background-size: 100px;
     box-shadow: 8px 13px 40px black;
@@ -107,7 +107,7 @@
 .layer{
     height: 15px;
     background-color: #4F6F52;
-    background-image: url("layer.jpg");
+    background-image: url("Images/layer.jpg");
     /* box-shadow: 1154px 192px 10px gray ; */
     
 }
@@ -115,7 +115,7 @@
 
 .main{
 height: 750px;
-background-image: url("layer.jpg");
+background-image: url("Images/layer.jpg");
 background-color: #739072;
 background-size: 13px;
 }
